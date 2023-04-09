@@ -1,0 +1,32 @@
+{
+  "news" : "News",
+  "Newssly App" : "Newssly App",
+  "Back" : "Back",
+
+  "noDataOnArchive" : "No Archived Data to show \uD83D\uDE1F",
+  "saved" : "saved",
+  "archive" : "Archive",
+  "Home" : "Home",
+  "Stream" : "Stream",
+  "Setting" : "Setting",
+  "type_your_Search" : "Type your search",
+  "change_theme" : "Change Theme",
+  "change_language" : "Change Language",
+  "country" : "Country",
+  "All" : "All",
+  "Business" : "Business",
+  "Science" : "Science",
+  "Sports" : "Sports",
+  "Technology" : "Technology",
+  "Health" : "Health",
+  "Entertainment" : "Entertainment",
+  "Crypto" : "Crypto",
+  "Light Mode" : "Light Mode",
+  "Dark Mode" : "Dark Mode",
+
+  "english" : "English",
+  "arabic" : "Arabic",
+  "french" : "French",
+  "Item added to Archive successfully" : "Item added to Archive successfully",
+  "item Deleted Succeffully" : "item Deleted Succeffully"
+}

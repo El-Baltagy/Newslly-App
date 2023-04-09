@@ -1,0 +1,31 @@
+{
+  "news" : "Nouvelles",
+  "Newssly App" : "Nouvelles Appli",
+  "Back" : "Back",
+  "Light Mode" : "Mode diurne",
+  "Dark Mode" : "Mode nuit",
+
+  "noDataOnArchive" : "Il n'y a aucune donnée à afficher",
+  "saved" : " sauvé",
+  "archive" : "Archiver",
+  "Home" : "Home",
+  "Stream" : "Ruisseau",
+  "Setting" : "Réglage",
+  "type_your_Search" : "Tapez votre recherche",
+  "change_theme" : "Change le thème",
+  "change_language" : "Changer de langue",
+  "country" : "Pays",
+  "All" : "Générale",
+  "Business" : "Affaire",
+  "Science" : "La science",
+  "Sports" : "Des sports",
+  "Technology" : "Technologie",
+  "Health" : "Santé",
+  "Entertainment" : "Divertissement",
+
+  "english" : "Anglaise",
+  "arabic" : "Arabe",
+  "french" : "Française",
+  "item Deleted Succeffully" : "item Deleted Succeffully",
+  "item_can't_be_added" : "L'article ne peut pas être ajouté"
+}
